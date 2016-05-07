@@ -1,0 +1,2 @@
+# slack-dice-bot
+さいころ
